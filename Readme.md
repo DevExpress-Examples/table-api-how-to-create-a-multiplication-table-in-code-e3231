@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Table_API_Example/Form1.cs) (VB: [Form1.vb](./VB/Table_API_Example/Form1.vb))
+<!-- default file list end -->
 # Table API - How to create a multiplication table in code
 
 
